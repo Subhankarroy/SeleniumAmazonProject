@@ -37,5 +37,9 @@ public class CommonFunctions {
 	public void refreshPage() {
 		System.out.println("Thanks mate!");
 	}
+	
+	public void navigateProject() {
+		System.out.println("Navigate Pages!");
+	}
 
 }
