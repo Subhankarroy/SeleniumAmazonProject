@@ -33,5 +33,9 @@ public class CommonFunctions {
 		WebElement webelement=wait.until(ExpectedConditions.visibilityOfElementLocated(element));
 		webelement.click();
 	}
+	
+	public void refreshPage() {
+		System.out.println("Thanks mate!");
+	}
 
 }
